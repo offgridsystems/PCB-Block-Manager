@@ -13,6 +13,8 @@ One version is provided, that is Rev D which is a fully tested board.
 
 ![Block Manager Schematic RevD1 Page 2](Images/Block_Manager_RevD1_schematic_Page_2.png)
 
+![Block Manager Schematic RevD1 Page 2](Images/20200609_145512-1.png)
+
 
 ![Open Hardware](Images/oshw-logo-200-px.png)
 
