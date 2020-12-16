@@ -6,7 +6,8 @@ WAS:
 3. POT used for manually adjusting BMS voltage                             
 4. Tact switch used for user control and learn blocks mode                 
 5. Connector footprints were not perfect                                   
-6. A little expensive                                                      
+6. A little expensive  
+7. 2.4Mhz comms, non-secure comms
 
 ==================================================================
 IS:
@@ -16,3 +17,4 @@ IS:
  4. Tact switch AND capacitive switch added for same
  5. Adjust footprints slightly to fit clamp boards for better plug and play
  6. Lower cost to build, especially through JLC-PCB using their auto loaded parts. 
+ 7. 900Mhz comms, security enabled, more robust comms, longer range
