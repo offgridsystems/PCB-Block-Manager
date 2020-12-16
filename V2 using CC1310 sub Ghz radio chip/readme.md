@@ -1,5 +1,6 @@
 I'm going to do the V2 changes in the typical engineering WAS/IS format, as I think that is the clearest way to proceed.
 So....
+
 WAS:                                                                    
 1. Teensy LC (for Block Manager - Teensy 3.1 for Pack Sup)                
 2. Used fan for cooling                                                    
@@ -10,6 +11,7 @@ WAS:
 7. 2.4Mhz comms, non-secure comms
 
 ==================================================================
+
 IS:
  1. TI CC1310 ARM chip with sub-Ghz radio on board
  2. Distributed BMS shunt resistors with smaller parts so fan is not needed but fan footprint retained 
